@@ -12,7 +12,7 @@ public class Arroz {
        Scanner scanner = new Scanner(System.in);
       //  Integer Int = Integer.parseInt(JOptionpane.showInputDialog("¿Cuántos KG quieres?"));
        System.out.println("*************************************");
-        System.out.println("********* Arrocería el Peñazo********");
+        System.out.println("********* Arrocería alumnos del Master ********");
         System.out.println("*************************************");
         System.out.println();
         System.out.println("(recuerde que solamente hay paquetes de KG completos)");
